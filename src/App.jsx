@@ -1,6 +1,6 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 
-import PublicHome from "./pages/public/PublicHome";
+import PublicHome from "./pages/Public/PublicHome";
 import Login from "./pages/Login";
 
 import AdminLayout from "./layout/AdminLayout";
